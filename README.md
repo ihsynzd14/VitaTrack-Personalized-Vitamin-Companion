@@ -5,8 +5,8 @@
 
   <div>
     <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge" alt="react" />
-    <img src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
-    <img src="https://img.shields.io/badge/Run%20in%20Expo%20Go-4285F4.svg?style=flat-square&logo=EXPO&labelColor=4285F4&logoColor=fff" alt="expogo" />
+    <img src="https://img.shields.io/badge/NATIVEWIND%20CSS-0f172A?style=for-the-badge&logo=tailwindcss" />
+    <img src="https://img.shields.io/badge/EXPO%20GO-blue?style=for-the-badge&logo=expo" alt="expogo" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqllite" />
     
