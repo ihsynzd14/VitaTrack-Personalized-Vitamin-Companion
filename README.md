@@ -133,5 +133,4 @@ python manage.py runserver YourIPv4Adress:8000
 ```
 
 #
-"# vitatrack" 
-"# vitatrack" 
+
